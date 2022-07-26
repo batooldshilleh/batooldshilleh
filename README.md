@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I love animals
 
 ![This is an image](https://github.com/batooldshilleh/batooldshilleh/blob/main/293370449_752346356013775_2673461430985019895_n.jpg)
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 <!--
 **batooldshilleh/batooldshilleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
