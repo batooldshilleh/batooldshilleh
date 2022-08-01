@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I love animals
 
 
-![This is an image](https://github.com/batooldshilleh/batooldshilleh/blob/main/image_2022-07-26_091452359.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batooldshilleh&show_icons=true&theme=dark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=batooldshilleh&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
