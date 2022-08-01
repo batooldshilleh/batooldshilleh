@@ -8,6 +8,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apibatooldshilleh=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apibatooldshilleh=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apibatooldshilleh=anuraghazra&count_private=true)
 
 ![This is an image](https://github.com/batooldshilleh/batooldshilleh/blob/main/image_2022-07-26_091452359.png)
 
