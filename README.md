@@ -6,6 +6,8 @@
 - 📫 How to reach me: batoolsh2001@gmail.com
 - ⚡ Fun fact: I love animals
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 ![This is an image](https://github.com/batooldshilleh/batooldshilleh/blob/main/image_2022-07-26_091452359.png)
 
 <!--
