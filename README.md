@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-
+## Shill List
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,androidstudio,arduino,bootstrap,c,cpp,css,dart,discord,flutter,github,html,js,linux,py" />
