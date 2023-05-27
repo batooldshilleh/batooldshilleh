@@ -2,6 +2,7 @@
  Hi there 👋 my name is Batool
  - Website development
  - Python programming
+ - To communicate : engbatools@gmail.com
  
 ## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batooldshilleh&show_icons=true&theme=dark)
