@@ -4,11 +4,11 @@
  - Python programming
  - To communicate : engbatools@gmail.com
  
-## GitHub stats
+<!--## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=batooldshilleh&show_icons=true&theme=dark)
 
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batooldshilleh&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/batooldshilleh?tab=repositories))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batooldshilleh&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/batooldshilleh?tab=repositories))-->
 
 ## Skill List
 <p align="center">
