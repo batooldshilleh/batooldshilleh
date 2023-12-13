@@ -19,7 +19,7 @@
 
 
 ## 🔥 Github Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=batooldshilleh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=batooldshilleh)](https://git.io/streak-stats)
 
 ## 💙 Skill List
 <p align="center">
