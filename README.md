@@ -24,6 +24,6 @@
 ## 💙 Skill List
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,arduino,bootstrap,c,cpp,css,dart,discord,flutter,github,html,js,linux,py" />
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,arduino,bootstrap,c,cpp,css,dart,discord,flutter,github,html,js,linux,py,docker,eclipse,firebase,jenkins,mongodb,mysql,netlify,nodejs,postman,vscode" />
   </a>
 </p>
