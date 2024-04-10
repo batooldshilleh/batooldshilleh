@@ -27,3 +27,11 @@
     <img src="https://skillicons.dev/icons?i=git,androidstudio,arduino,bootstrap,c,cpp,css,dart,discord,flutter,github,html,js,linux,py,docker,eclipse,firebase,jenkins,mongodb,mysql,netlify,nodejs,postman,vscode" />
   </a>
 </p>
+
+
+## Snake
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
