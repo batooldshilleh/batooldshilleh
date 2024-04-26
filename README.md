@@ -30,5 +30,5 @@
 
 
 ## 🐍 Snake
-![Snake animation](https://raw.githubusercontent.com/{batooldshilleh}/{batooldshilleh}/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/batooldshilleh/batooldshilleh/blob/output/github-contribution-grid-snake.gif)
             
