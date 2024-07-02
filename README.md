@@ -30,4 +30,9 @@
 
 
 ## 🐍 Snake
-![Snake animation](https://raw.githubusercontent.com/batooldshilleh/batooldshilleh/output/github-contribution-grid-snake.svg)         
+![Snake animation](https://raw.githubusercontent.com/batooldshilleh/batooldshilleh/output/github-contribution-grid-snake.svg)   
+
+
+## Contribution Graph
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=batooldshilleh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" /> <br>
