@@ -35,5 +35,5 @@
 
 ## Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=batooldshilleh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" bg_color = FFFFFF color="0000" hide_title=true  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=batooldshilleh&radius=16&theme=minimal&area=true&order=5" height="300" alt="activity-graph graph" />
 
