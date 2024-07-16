@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=batooldshilleh&label=Profile%20views&color=0e75b6&style=flat" alt="barasedih11" /> </p>
+<!--<p align="right"> <img src="https://komarev.com/ghpvc/?username=batooldshilleh&label=Profile%20views&color=0e75b6&style=flat" alt="barasedih11" /> </p>-->
 
  <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
