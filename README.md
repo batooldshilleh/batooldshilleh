@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://github.com/batooldshilleh/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Android%20App%20and%20app%20developer💻;Computer%20Engineer%20👷;5%2B%20years%20of%20coding%20experience%20💪;Always%20learning%20new%20things%20🦕&font=Fira%20Code&center=true&width=440&height=45&color=555555&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=BackEnd%20developer%20💻;Computer%20Engineer%20👷;5%2B%20years%20of%20coding%20experience%20💪;Always%20learning%20new%20things%20🦕&font=Fira%20Code&center=true&width=440&height=45&color=555555&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
 ## ⭐ Quick overview
 Hi there 👋, my name is Batool
 
-- Android Developer 👩🏻‍💻
+- BackEnd Developer 👩🏻‍💻
 - [Portfolio](https://cerulean-crostata-47be35.netlify.app/) 🌐
 - To communicate: batoolsh2001@gmail.com ✉️
 
