@@ -22,7 +22,7 @@ I specialize in building robust, scalable systems and love working with Node.js,
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,ts,js,py,dart,flutter,git,github,linux,docker,jenkins,vscode,postman,html,css" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,ts,js,py,dart,flutter,git,github,linux,docker,jenkins,vscode,postman,aws,react" />
 </p>
 
 ---
