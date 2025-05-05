@@ -8,14 +8,12 @@
 
 ## 👋 About Me
 
-Hello! I'm **Batool Dshilleh**, a passionate **Back-End Developer** and **Computer Engineer** with 5+ years of coding experience.  
-I specialize in building robust, scalable systems and love working with Node.js, databases, and automation tools.
+Hello! I'm **Batool Dshilleh**, a passionate **Back-End Developer** and **Computer Engineer** with **5+ years** of coding experience.  
+I specialize in building **robust**, **scalable systems** and love working with **Node.js**, **databases**, and **automation tools**.
 
-- 📫 Reach me: **batoolsh2001@gmail.com**
-- 🌐 Portfolio: [View My Work](https://cerulean-crostata-47be35.netlify.app/)
-- 🏆 Ranked on [committers.top](https://user-badge.committers.top/palestine_private/batooldshilleh)
-
-[![committers.top badge](https://user-badge.committers.top/palestine_private/batooldshilleh.svg)](https://user-badge.committers.top/palestine_private/batooldshilleh)
+- 📫 **Reach me**: **batoolsh2001@gmail.com**
+- 🌐 **Portfolio**: [View My Work](https://cerulean-crostata-47be35.netlify.app/)
+- 🏆 **Ranked on**: [committers.top](https://user-badge.committers.top/palestine_private/batooldshilleh)
 
 ---
 
@@ -48,4 +46,36 @@ I specialize in building robust, scalable systems and love working with Node.js,
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/batooldshilleh/batooldshilleh/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+## 🏅 Badges
+
+<p align="center">
+  <!-- GitHub Followers Badge -->
+  <a href="https://github.com/batooldshilleh">
+    <img src="https://img.shields.io/github/followers/batooldshilleh?style=social" alt="GitHub Followers" />
+  </a>
+
+  <!-- GitHub Stars Badge -->
+  <a href="https://github.com/batooldshilleh">
+    <img src="https://img.shields.io/github/stars/batooldshilleh?style=social" alt="GitHub Stars" />
+  </a>
+
+  
+
+ 
+</p>
+
+<p align="center">
+  <!-- committers.top Badge -->
+  <a href="https://github.com/batooldshilleh">
+    <img src="https://user-badge.committers.top/palestine_private/batooldshilleh.svg" alt="committers.top badge" />
+  </a>
+  <!-- AWS Certified Badge -->
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900" alt="AWS Certified" />
+
+  <!-- Node.js Developer Badge -->
+  <img src="https://img.shields.io/badge/Node.js-%20Development-339933" alt="Node.js Developer" />
 </p>
