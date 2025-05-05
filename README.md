@@ -1,31 +1,51 @@
 <p align="center">
-  <a href="https://github.com/batooldshilleh/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=BackEnd%20developer%20💻;Computer%20Engineer%20👷;5%2B%20years%20of%20coding%20experience%20💪;Always%20learning%20new%20things%20🦕&font=Fira%20Code&center=true&width=440&height=45&color=555555&vCenter=true&pause=1000&size=22" />
+  <a href="https://github.com/batooldshilleh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Backend+Developer+%F0%9F%92%BB;Computer+Engineer+%F0%9F%9B%B7%EF%B8%8F;5%2B+Years+Coding+Experience+%F0%9F%92%AA;Always+Learning+New+Things+%F0%9F%A6%95" alt="Typing SVG" />
   </a>
 </p>
 
-## ⭐ Quick overview
-Hi there 👋, my name is Batool
+---
 
-- BackEnd Developer 👩🏻‍💻
-- [Portfolio](https://cerulean-crostata-47be35.netlify.app/) 🌐
-- To communicate: batoolsh2001@gmail.com ✉️
+## 👋 About Me
 
-## 🏅 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batooldshilleh&layout=compact)](https://github.com/batooldshilleh?tab=repositories)
+Hello! I'm **Batool Dshilleh**, a passionate **Back-End Developer** and **Computer Engineer** with 5+ years of coding experience.  
+I specialize in building robust, scalable systems and love working with Node.js, databases, and automation tools.
 
-## 🔥 GitHub Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=batooldshilleh)](https://git.io/streak-stats)
+- 📫 Reach me: **batoolsh2001@gmail.com**
+- 🌐 Portfolio: [View My Work](https://cerulean-crostata-47be35.netlify.app/)
+- 🏆 Ranked on [committers.top](https://user-badge.committers.top/palestine_private/batooldshilleh)
 
-## 💙 Skill Set
+[![committers.top badge](https://user-badge.committers.top/palestine_private/batooldshilleh.svg)](https://user-badge.committers.top/palestine_private/batooldshilleh)
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,arduino,c,cpp,css,dart,discord,docker,eclipse,express,firebase,flutter,git,github,githubactions,gmail,gherkin,gradle,html,js,java,jenkins,jest,jquery,kotlin,linkedin,linux,maven,mongodb,mysql,netlify,nodejs,notion,npm,opencv,postman,pycharm,py,raspberrypi,stackoverflow,sublime,selenium,ts,ubuntu,vscode,windows" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,ts,js,py,dart,flutter,git,github,linux,docker,jenkins,vscode,postman,html,css" />
 </p>
 
-## 🐍 Snake Animation
-![Snake animation](https://raw.githubusercontent.com/batooldshilleh/batooldshilleh/output/github-contribution-grid-snake.svg)
+---
 
-## Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=batooldshilleh&radius=16&theme=minimal&area=true&order=5" height="300" alt="activity-graph graph" />
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batooldshilleh&layout=compact&theme=default" height="140" />
+  <img src="https://streak-stats.demolab.com/?user=batooldshilleh&theme=default" height="140" />
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batooldshilleh&theme=minimal&radius=16&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/batooldshilleh/batooldshilleh/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
