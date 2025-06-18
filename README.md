@@ -17,12 +17,15 @@ I specialize in building **robust**, **scalable systems** and love working with 
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Languages & Tools I Have placed My Hands On
+
 <div align="center">
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,ts,js,py,dart,flutter,git,github,linux,docker,jenkins,vscode,postman,aws,react" />
-</p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,ts,js,py,dart" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,docker,jenkins,vscode,postman" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,flutter" />
 </div>
+
+
 
 ---
 
